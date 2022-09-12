@@ -142,16 +142,7 @@
     <td> <ul><li>Tipo de interfaz digital: IIC (modo esclavo) o PWM<li>Rango de medición de temperatura: -70℃~382℃<li>
 Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución 0,02 ℃<li>Voltaje de funcioniento: 3.3 V ~ 5 V<li>Temperatura ambiente de funciomiento: -40 ~ 125 ℃</ul></td>
     <td>1</td>
-  </tr> 
-    <tr>
-    <td>Sensor Alarma</td>
-    <td>
-    <img src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/ultrasonico.jpg" width="100"/>
-    </td>
-      <td> <ul><li></li></ul></td>
-    <td>1</td>
-  </tr> 
-
+  </tr>
 </table>
 
 <br><br><br>
