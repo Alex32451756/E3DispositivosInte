@@ -111,9 +111,9 @@
 ## Hardware
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
-    <td>ESP32 Cam</td>
+    <td>ESP8266 Cam</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165996397-e9527b13-6ad4-4e73-a732-7721e0ffac59.png"  alt="ESP32 Cam" width="100"/>
+    <img src="https://user-images.githubusercontent.com/56412490/190190128-f62d3238-3a85-434e-9b9f-ec942da3b759.png"  alt="ESP32 Cam" width="100"/>
     </td>
     <td><ul><li>Voltaje: 5 V<li>CPU de 32 bits de doble núcleo de baja potencia para procesadores de aplicaciones<li>Frecuencia principal de hasta 240 MHz<li>Potencia de cálculo de hasta 600 DMIPS<li>SRAM integrado de 520 KB<li>PSRAM externo de 4 M<li>Es ideal para interfaces como: UART. SPI. I2C. PWM. ADC. DAC<li>Soporta cámaras OV2640 y OV7670 (flash incorporado)<li>Apoyo imagen WiFi subir<li>Apoyo TF tarjeta</ul></td>
     <td>1</td>
@@ -143,6 +143,23 @@
 Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución 0,02 ℃<li>Voltaje de funcioniento: 3.3 V ~ 5 V<li>Temperatura ambiente de funciomiento: -40 ~ 125 ℃</ul></td>
     <td>1</td>
   </tr>
+  <tr>
+    <td>Sensor DHT 11</td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/56412490/190190920-131170f8-a7f5-4fbf-9a9a-215a4bc4eac8.png" alt="OLED" width="100"/>
+    </td>
+    <td> <ul><li>Muy barato. <li>Funciona con 3,3 y 5V de alimentación. <li>Rango de temperatura: de 0º a 50º con 5% de precisión (pero solo mide por grados, no fracciones. <li>Rango de humedad: de 20% al 80% con 5% de precisión. <li>1 Muestra por segundo (No es el más rápido del oeste)</ul></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Sensor MH Real Time</td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/56412490/190192427-724d7d59-fc3c-421a-a407-030f7fd4c5c9.png" alt="OLED" width="100"/>
+    </td>
+    <td> <ul><li>Chip principal: DS1302. <li>Voltaje de alimentación mínimo: 3.3 V. <li>Tipo de batería: CR2032 de litio
+ <li>RAM para el almacenamiento de datos: 31 X 8 <li>Dimensiones: 43 mm X 22 mm X 11 mm <li>Número de pines: 5. </ul></td>
+    <td>1</td>
+  </tr>
 </table>
 
 <br><br><br>
@@ -152,11 +169,10 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 <ol>
   <li>Detección de temperatura</li>
     <ul>
-       <li>Mostrar datos capturados en pantalla OLED.</li>
-      <li>Guardado de datos en Base de Datos.</li>
-      <li>Desarrollo de aplicación web para mostrar datos.</li>
-      <li>Mostrar datos en la aplicación.</li>
-      <li>Alerta de sonido de buzzer ante altas o bajas temperaturas detectadas.</li>
+        <li>Mostrar datos capturados en pantalla OLED.</li>
+        <li>Guardado de datos en Base de Datos.</li>
+        <li>Desarrollo de aplicación web para mostrar datos.</li>
+        <li>Mostrar datos en el sitio Web.</li>
     </ul>
   <li>Pantalla OLED.</li>
     <ul>
@@ -166,9 +182,24 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
       <ul>
         <li>Mostrar datos capturados en pantalla OLED.</li>
         <li>Guardado de datos en Base de Datos.</li>
-      <li>Desarrollo de aplicación web para mostrar datos.</li>
-      <li>Mostrar datos en la aplicación.</li>
+        <li>Desarrollo de aplicación web para mostrar datos.</li>
+        <li>Mostrar datos en el sitio Web.</li>
     </ul>
+  
+  <li>Sensor de Humedad.</li>
+    <ul>
+        <li>Mostrar datos capturados en pantalla OLED.</li>
+        <li>Tomar la temperatura y la Humedad del exterior.</li>
+        <li>Guardado de datos en Base de Datos.</li>
+        <li>Mostrar datos en el sitio Web.</li>
+    </ul>
+  
+  <li>Sensor de Reloj.</li>
+    <ul>
+        <li>Mostrar datos capturados en pantalla OLED.</li>
+        <li>Mostrar la hora en tiempo Real.</li>
+    </ul>
+  
 </ol>
 
 
