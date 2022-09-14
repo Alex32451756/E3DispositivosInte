@@ -1,0 +1,26 @@
+{
+  "name": "gdexapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "eiows": "^4.1.2",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "firebase-admin": "^11.0.1",
+    "googleapis": "^39.2.0",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "google-drive-getfilelist": "^1.0.5"
+  }
+}
