@@ -63,7 +63,7 @@
 > En este proyecto se genero un prototipo que propone ser un accesorio tecnológico para las personas mayores de edad, de forma que recolecte datos a través de los distintos sensores, y posteriormente análisar su estado con los datos recolectados y tomar decisiones del usuario.
 
 ## Objetivo del proyecto
-> El objetivo del proyecto es desarrollar un accesorio de uso personal el cual es un brazalete tecnológico que permita a los usuarios medir la temperatura, ritmo cardiaco y así mismo una alarma para avisar al uasuario un estado critico de su cuerpo, guardando todo estos datos y mostrandolos en una pequeña pantalla, de la misma forma el usuario podrá acceder a una aplicación web en línea con sus credenciales, en la cual podrá visualizar los datos mencionados en tiempo real.
+> El objetivo del proyecto es desarrollar un accesorio de uso personal el cual es un brazalete tecnológico que permita a los usuarios medir la temperatura, ritmo cardiaco y de igual manera mostrar la hora en tiempo real, guardando uno de estos datos y mostrandolos en una pequeña pantalla, de la misma forma el usuario podrá acceder a un sitio wey para poder ver los datos y   en la cual podrá visualizar los datos mencionados en tiempo real.
 
 ## Visión del proyecto
 > Es poder llegar a muchos mas usuarios de a nivel regional de esta idea tecnologica tambien ser una empresa lider de fabricación y así mismo después expandirnos a nivel estatal en el estado de Guanajuato y por consecuencia a nivel nacional ne México.
