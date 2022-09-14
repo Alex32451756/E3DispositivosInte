@@ -74,8 +74,6 @@
 * Adafruit_GFX.h
 * Adafruit_SSD1306.h
 * DHTesp.h
-* EasyBuzzer.h
-* Esp_camera.h
 * FirebaseESP32.h
 * HeartRate.h
 * MAX30105.h
@@ -92,7 +90,7 @@
       <th>Licencia</th>
   </tr>
   <tr>
-    <td>Arduino</td>
+    <td>ESP8266</td>
     <td>Licencia Pública General</td>
   </tr>
   
@@ -111,7 +109,7 @@
 ## Hardware
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
-    <td>ESP8266 Cam</td>
+    <td>ESP8266</td>
     <td>
     <img src="https://user-images.githubusercontent.com/56412490/190190128-f62d3238-3a85-434e-9b9f-ec942da3b759.png"  alt="ESP32 Cam" width="100"/>
     </td>
@@ -224,6 +222,11 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
     <td>3</td>
     <td>Mostrar los datos en una panta OLED</td>
   </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>Creacion de sitio web y visualizar datos en timpo real</td>
+  </tr>
 </table>
 
 <br><br><br>
@@ -231,7 +234,7 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 <img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/diagrama.png">
 
 <br><br><br>
-## Prototipo Inicial de Pulsera Multiusos
+## Prototipo Inicial de Brazalete Magico
 ![Prototipo_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/dibujo_prototipo.jpg)
 
 <br><br><br>
