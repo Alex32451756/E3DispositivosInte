@@ -232,7 +232,7 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 
 <br><br><br>
 ## Prototipo Inicial de Pulsera Multiusos
-![Prototipo_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/dibujo_prototipo.jpg)
+![image](https://user-images.githubusercontent.com/56412490/190201526-aca25e4f-6d46-40d8-a002-d6409451f961.png)
 
 <br><br><br>
 ## Tablero
