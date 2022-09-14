@@ -250,10 +250,9 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ![ResultadoUno](https://user-images.githubusercontent.com/56412490/190198688-ad46e63e-18b0-4006-bbbc-bd4e41be200f.jpg)
 ![ResultadoDos](https://user-images.githubusercontent.com/56412490/190198733-3a81dee7-77f4-4814-97d1-ce531c15ace3.jpg)
 ![ResultadoTres](https://user-images.githubusercontent.com/56412490/190198775-e87a85e1-1a43-42aa-b14f-3585665bc724.jpg)
-![4]()
-![5]()
-![6]()
-VIDEO: 
+![image](https://user-images.githubusercontent.com/56412490/190237078-d7742ba4-5323-495c-b0f0-8c0e7f34cbf6.png)
+
+VIDEO: https://drive.google.com/file/d/1NB_aTRbiswZk5bO6xLjl_fWAyNpkNXjw/view?usp=sharing
 <br>
 []()
 
