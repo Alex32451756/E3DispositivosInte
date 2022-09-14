@@ -74,6 +74,8 @@
 * Adafruit_GFX.h
 * Adafruit_SSD1306.h
 * DHTesp.h
+* EasyBuzzer.h
+* Esp_camera.h
 * FirebaseESP32.h
 * HeartRate.h
 * MAX30105.h
@@ -90,7 +92,7 @@
       <th>Licencia</th>
   </tr>
   <tr>
-    <td>ESP8266</td>
+    <td>Arduino</td>
     <td>Licencia Pública General</td>
   </tr>
   
@@ -109,7 +111,7 @@
 ## Hardware
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr> 
   <tr>
-    <td>ESP8266</td>
+    <td>ESP8266 Cam</td>
     <td>
     <img src="https://user-images.githubusercontent.com/56412490/190190128-f62d3238-3a85-434e-9b9f-ec942da3b759.png"  alt="ESP32 Cam" width="100"/>
     </td>
@@ -222,19 +224,14 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
     <td>3</td>
     <td>Mostrar los datos en una panta OLED</td>
   </tr>
-  
-  <tr>
-    <td>4</td>
-    <td>Creacion de sitio web y visualizar datos en timpo real</td>
-  </tr>
 </table>
 
 <br><br><br>
 ## Diagrama (Arquitectura)
-<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/diagrama.png">
+<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/190197049-684855ad-4abe-4a8c-9ad5-38b9f28b6ad4.PNG">
 
 <br><br><br>
-## Prototipo Inicial de Brazalete Magico
+## Prototipo Inicial de Pulsera Multiusos
 ![Prototipo_Pulsera Multiusos](https://github.com/SandraNAguayoN/wearable_equipo2/blob/main/img/dibujo_prototipo.jpg)
 
 <br><br><br>
@@ -243,15 +240,16 @@ https://trello.com/b/qvzCt7Np/pulsera-multiusos
 ### Sprint 1
 ![Sprint1](https://user-images.githubusercontent.com/75550479/173165506-6048e54b-22a5-425e-b668-ffc520e343b1.png)
 ### Sprint 2
-![Sprint2]()
+![Spring2](https://user-images.githubusercontent.com/56412490/190197527-61a73bf3-3741-4004-9062-b6376212be82.PNG)
+
 ### Sprint 3
-![Sprint3]()
+![Spring3](https://user-images.githubusercontent.com/56412490/190197609-bee35473-930d-4e25-8c94-7bf8b3f6fd3f.PNG)
 
 <br><br><br>
 ## Resultados
-![1]()
-![2]()
-![3]()
+![ResultadoUno](https://user-images.githubusercontent.com/56412490/190198688-ad46e63e-18b0-4006-bbbc-bd4e41be200f.jpg)
+![ResultadoDos](https://user-images.githubusercontent.com/56412490/190198733-3a81dee7-77f4-4814-97d1-ce531c15ace3.jpg)
+![ResultadoTres](https://user-images.githubusercontent.com/56412490/190198775-e87a85e1-1a43-42aa-b14f-3585665bc724.jpg)
 ![4]()
 ![5]()
 ![6]()
