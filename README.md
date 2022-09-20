@@ -160,6 +160,33 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
  <li>RAM para el almacenamiento de datos: 31 X 8 <li>Dimensiones: 43 mm X 22 mm X 11 mm <li>Número de pines: 5. </ul></td>
     <td>1</td>
   </tr>
+  <tr>
+    <td>Sensor de sonido</td>
+    <td>
+    <img src="https://store.prometec.net/wp-content/uploads/2019/06/HTB1VBw.KFXXXXcIXXXXq6xXFXXXH-768x768.jpg" alt="OLED" width="100"/>
+    </td>
+    <td> <ul><li>Alimentación: 5  VDC. <li>Salida analógica. <li>Salida digital de nivel de umbral.
+ <li>Micrófono de alta sensibilidad. <li>Indicador luminoso de encendido</ul></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Buzzer</td>
+    <td>
+    <img src="https://www.iberobotics.com/wp-content/uploads/2018/01/buzzer_zumbador_activo_5v-1.jpg" alt="OLED" width="100"/>
+    </td>
+    <td> <ul><li>Voltaje de entrada: 4V a 7V <li>Diámetro: 12mm. <li>Altura: 9,5mm
+ <li>Efecto – sonido continuo <li>Intensidad de sonido: 85dB a 10cm</ul></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Button push</td>
+    <td>
+    <img src="https://http2.mlstatic.com/D_NQ_NP_988216-MLM29364237192_022019-O.jpg" alt="OLED" width="100"/>
+    </td>
+    <td> <ul><li>Utilizado como switch o interruptor al momento de ser presionado. <li>Funciona como contacto normalmente abierto (NA). <li>Voltaje: 120 VDC/ 220 VAC.
+ <li>4 pines amigables para usar en el protoboard. </ul></td>
+    <td>1</td>
+  </tr>
 </table>
 
 <br><br><br>
@@ -199,6 +226,16 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
         <li>Mostrar datos capturados en pantalla OLED.</li>
         <li>Mostrar la hora en tiempo Real.</li>
     </ul>
+     <li>Sensor de sonido.</li>
+    <ul>
+        <li>Cambiar de interfaz de panatalla oled para mostrar otros datos al dectetar sonido</li>
+        <li>Mostrar datos tiempo Real.</li>
+    </ul>
+    <li>Sensor de sonido.</li>
+    <ul>
+        <li>Cambiar de interfaz de panatalla oled para mostrar otros datos al presionar el button</li>
+        <li>activar el buzzer con el cambio de datos.</li>
+    </ul>
   
 </ol>
 
@@ -228,10 +265,10 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 
 <br><br><br>
 ## Diagrama (Arquitectura)
-<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/191276174-d80313c0-5b3d-4a75-a35c-68f398aff043.PNG">
+<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/190197049-684855ad-4abe-4a8c-9ad5-38b9f28b6ad4.PNG">
 
 <br><br><br>
-## Prototipo Inicial de Pulsera Multiusos
+## Prototipo Inicial de Brazalette magico
 ![image](https://user-images.githubusercontent.com/56412490/190201526-aca25e4f-6d46-40d8-a002-d6409451f961.png)
 
 <br><br><br>
