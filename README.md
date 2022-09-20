@@ -273,7 +273,7 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 
 <br><br><br>
 ## Tablero
-https://trello.com/b/qvzCt7Np/pulsera-multiusos
+https://trello.com/b/DjqixoeN/dispositivos-inteligentes
 ### Sprint 1
 ![Sprint1](https://user-images.githubusercontent.com/75550479/173165506-6048e54b-22a5-425e-b668-ffc520e343b1.png)
 ### Sprint 2
