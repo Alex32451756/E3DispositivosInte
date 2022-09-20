@@ -37,7 +37,7 @@
         <a href="#diagrama-inicial">Diagrama (Arquitectura)</a>
     </li>
     <li>
-        <a href="#prototipo-de-pulsera-multiusos">Prototipo Inicial de Pulsera Multiusos</a>
+        <a href="#prototipo-de-pulsera-multiusos">Prototipo Inicial de Brazalette magico</a>
     </li>
     <li>
         <a href="#tablero">Tablero</a>
