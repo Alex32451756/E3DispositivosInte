@@ -228,7 +228,7 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 
 <br><br><br>
 ## Diagrama (Arquitectura)
-<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/190197049-684855ad-4abe-4a8c-9ad5-38b9f28b6ad4.PNG">
+<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/191276174-d80313c0-5b3d-4a75-a35c-68f398aff043.PNG">
 
 <br><br><br>
 ## Prototipo Inicial de Pulsera Multiusos
