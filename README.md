@@ -265,7 +265,7 @@ Error de medición de temperatura: ± 0,5 ℃ (a temperatura biente) resolución
 
 <br><br><br>
 ## Diagrama (Arquitectura)
-<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/190197049-684855ad-4abe-4a8c-9ad5-38b9f28b6ad4.PNG">
+<img width="100%" height="auto" alt="Diagrama_Pulsera Multiusos" src="https://user-images.githubusercontent.com/56412490/191283887-f3bf53ab-7c8b-4dfb-9ee5-c202dc9ebf36.PNG">
 
 <br><br><br>
 ## Prototipo Inicial de Brazalette magico
